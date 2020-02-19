@@ -41,7 +41,7 @@ $ cd client
 ```
 
 ```bash
-$ npm start
+client $ npm start
 ```
 Se a aplicação executar de forma correta, você deve receber a seguinte resposta:
 
